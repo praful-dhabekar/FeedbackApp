@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FeedbackApp</string>
+    <string name="q_what_do_you_think_about_android_class_which_is_going_on">Q 1. Overall how satisfied or dissatisfied with our company?</string>
+    <string name="neither_satisfied_or_dissatisfied">Neither Satisfied or Dissatisfied</string>
+    <string name="very_dissatisfied">Very Dissatisfied</string>
+    <string name="somewhat_dissatisfied">Somewhat Dissatisfied</string>
+    <string name="somewhat_satisfied">Somewhat Satisfied</string>
+    <string name="very_satisfied">Very Satisfied</string>
+    <string name="next">Next</string>
+</resources>
